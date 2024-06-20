@@ -6,11 +6,6 @@ currently interested on exploring different areas of programming.
 
 🌱 Throughout my coding time some of the skills or technologies I have worked with include :
 
-    - C++
-    - Python (numpy, pandas)
-    - MatLab
-    - Arduino IDE
-    - VHDL
     - Object Oriented Programming
     - IoT
     - Data Structures (linked lists, arrays, queues, stacks, vectors, trees, dyanmically allocated memory, graphs, etc)
@@ -18,7 +13,6 @@ currently interested on exploring different areas of programming.
     - Arduino, FPGA, M5Stack experience. 
     - Probability and Statistics
     - Linear Algebra,
-  and so on.
   
 👯 I’m looking to collaborate on projects related to sustainable technology and smart systems.
 
@@ -29,17 +23,35 @@ currently interested on exploring different areas of programming.
     I enrolled in a Wildernees Leadership Training program that included a 14 days backpakcing trip in the middle of the woods without more prior experience than a 3 overnight backpack trip,
     and it was one of the greatest time of my life !! (I really like adventures).
 
+## My Skills
+
+### Languages:
+
+Python
+C++
+VHDL
+MatLab
+
+### Frameworks and Libraries:
+
+Arduino IDE
+EasyEDA
+Numpy
+Pandas
+Wire
+Adafruit Sensor Library
+WiFiNINA
+Blynk
+FastLED
+
+### Tools and Platforms:
+
+Xilinx ISE
+M5Stack
+GitHub
+Blynk
+
 ## My Projects
-
-### EcoPower Track: Sustainable Room Energy Monitoring Project
-
-Description: Co-led the development of an IoT-based system to promote sustainable energy consumption from air conditioners and lights in NYUAD campus dorms.
-Technologies: IoT, Real-time data processing, I2C protocol, EasyEDA
-Key Contributions:
-Developed real-time data processing algorithms, including temperature and light intensity calculations, to derive meaningful consumption pattern insights.
-Integrated sensors for ambient light intensity measurements utilizing the I2C protocol.
-Designed and implemented circuit connections using industry-standard tools such as EasyEDA.
-Showcased flexibility and problem-solving skills through teamwork to address project challenges.
 
 ### Microprocessor Implementation and Simulation Project
 
@@ -70,6 +82,16 @@ Implemented a multi-file code organization to enhance readability and reusabilit
 Utilized object-oriented principles to optimize memory usage and execution efficiency.
 Designed test cases to verify the functionality and robustness of the food delivery system.
 
+### EcoPower Track: Sustainable Room Energy Monitoring Project
+
+Description: Co-led the development of an IoT-based system to promote sustainable energy consumption from air conditioners and lights in NYUAD campus dorms.
+Technologies: IoT, Real-time data processing, I2C protocol, EasyEDA
+Key Contributions:
+Developed real-time data processing algorithms, including temperature and light intensity calculations, to derive meaningful consumption pattern insights.
+Integrated sensors for ambient light intensity measurements utilizing the I2C protocol.
+Designed and implemented circuit connections using industry-standard tools such as EasyEDA.
+Showcased flexibility and problem-solving skills through teamwork to address project challenges.
+
 ### Plant Monitoring System using M5Stack Core2 microcontroller, and Arduino IDE
 
 Description: Architected a real-time Plant Monitoring System to provide data for amateur plant parents to make well-informed decisions about their plants’ care.
@@ -78,3 +100,4 @@ Key Contributions:
 Engineered an embedded system that processes sensor readings, identifies optimal values, and triggers email notifications at critical conditions based on I2C protocol sensor integration.
 Developed an interface for plant selection and manual input of parameters via M5Stack buttons.
 Documented project setup, code logic, and communication protocols for future reference and knowledge sharing.
+

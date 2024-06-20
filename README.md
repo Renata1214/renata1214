@@ -6,13 +6,13 @@ currently interested on exploring different areas of programming.
 
 🌱 Throughout my coding time some of the skills or technologies I have worked with include :
 
-    - Object Oriented Programming
+   - Object Oriented Programming
     - IoT
     - Data Structures (linked lists, arrays, queues, stacks, vectors, trees, dyanmically allocated memory, graphs, etc)
     - Algorithms (Bubble Sort Algorithm, Quick Sort Algorithm, Djkastra Algorithm, Topological Sorting, Hashing, Breadth First, Depth First Treee Traversal, etc)
     - Arduino, FPGA, M5Stack experience. 
     - Probability and Statistics
-    - Linear Algebra,
+    - Linear Algebra
   
 👯 I’m looking to collaborate on projects related to sustainable technology and smart systems.
 

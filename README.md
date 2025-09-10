@@ -65,10 +65,10 @@ I thrive on solving complex problems, leading innovative projects, and building 
   - Integrated **ambient sensors** and built real-time monitoring pipelines.  
 
 -  **Microprocessor Implementation (VHDL + FPGA)**  
-  - Designed a **custom microprocessor** with ALU, register memory, and control logic.  
+    - Designed a **custom microprocessor** with ALU, register memory, and control logic.  
 
 -  **Voice-Controlled Car Robot**  
-  - Built a **Bluetooth-enabled robot** with Arduino UNO & mobile integration.  
+    - Built a **Bluetooth-enabled robot** with Arduino UNO & mobile integration.  
 
 ---
 

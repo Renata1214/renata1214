@@ -1,122 +1,98 @@
-### **Hi there, I'm Renata! 👋**  
+# 👋 Hi there, I'm Renata!  
 
-I'm a **Computer Engineering student at New York University Abu Dhabi (NYUAD)** with a passion for **machine learning, robotics, and sustainability**. I thrive on working on **innovative projects** and continuously learning **new technologies** to bridge the gap between **AI, embedded systems, and real-world applications**.  
-
----
-🌱 **Throughout my coding time some of the skills or technologies I have worked with include: **
-
-   - Object Oriented Programming
-     
-   - IoT
-     
-   - Data Structures (linked lists, arrays, queues, stacks, vectors, trees, dyanmically allocated memory, graphs, etc)
-     
-   - Algorithms (Bubble Sort Algorithm, Quick Sort Algorithm, Djkastra Algorithm, Topological Sorting, Hashing, Breadth First, Depth First Treee Traversal, etc)
-     
-   - Probability and Statistics
-     
-   - Linear Algebra
-
-   - Applied and Advanced Machine Learning
-
-   - Introduction to Databases 
-
-   - Projects in Programming for the Data Scientist
-
-   - Embedded Systems Design 
-
-   - Computer Networs
-
-   - Computer Organization and Architecture
+Computer Engineering student specializing in Machine Learning, with experience in fraud detection, forecasting, and
+industrial cybersecurity research. Skilled in building end-to-end ML pipelines—from data engineering and feature
+design to model optimization and deployment in cloud environments (Azure, SQL).
+I thrive on solving complex problems, leading innovative projects, and building end-to-end solutions that connect **AI, embedded systems, and real-world applications**.  
 
 ---
 
-### **🌱 Skills & Technologies I Have Worked With**  
+## 🔧 Skills & Technologies  
 
-#### **Programming & OS:**  
-Python, C++, MATLAB, VHDL, Verilog, SQL, HTML  
-Windows, Linux, macOS  
+### **Programming & OS**  
+- Python, C++, MATLAB, VHDL, Verilog, SQL, HTML  
+- Windows, Linux, macOS  
 
-#### **Machine Learning & AI:**  
-Deep Learning (CNNs, LSTMs, GANs)  
-Natural Language Processing (NLP)  
-PyTorch, NumPy, Pandas, Matplotlib  
-Data Preprocessing, Model Development, Feature Engineering  
+### **Machine Learning & AI**  
+- Deep Learning (CNNs, LSTMs, GANs, Transformers)  
+- NLP (BERT, FinBERT, MiniLM)  
+- PyTorch, Scikit-learn, NumPy, Pandas, Matplotlib  
+- Feature Engineering, Model Optimization, Deployment  
 
-#### **IoT & Embedded Systems:**  
-Arduino IDE, EasyEDA, M5Stack Core2  
-Adafruit Sensor Library, Wire, FastLED  
-I2C Protocol, WiFiNINA, Blynk  
+### **IoT & Embedded Systems**  
+- Arduino IDE, EasyEDA, M5Stack Core2  
+- Adafruit Sensor Libraries, FastLED, I2C Protocol, WiFiNINA, Blynk  
 
-#### **Data Science & Analytics:**  
-Web Scraping (BeautifulSoup, Scrapy)  
-Regular Expressions (Regex), SQL  
-Data Analysis with Pandas  
-REST API Integration  
+### **Data Science & Analytics**  
+- SQL, REST API Integration  
+- Web Scraping (BeautifulSoup, Scrapy)  
+- Data Cleaning, Preprocessing, Regular Expressions  
 
-#### **Tools & Platforms:**  
-Xilinx ISE, GitHub, TensorFlow, PyTorch  
-Cloud Platforms (AWS, Google Colab)  
+### **Tools & Platforms**  
+- Git/GitHub, Jupyter, Xilinx ISE  
+- Cloud Platforms: **Azure (Cosmos DB, ML pipelines, Event Hub, Blob Storage)**, AWS, Google Colab  
 
 ---
 
-### **👯 I’m looking to collaborate on:**  
-- **Machine Learning & AI Projects** 🤖  
-- **Smart & Sustainable Technologies** 🌍  
+## 🤝 Collaboration Interests  
+- **Machine Learning & AI Research** 🤖  
+- **Sustainable Energy & Impact-Driven Tech** 🌍  
 - **Robotics & IoT Systems** 🔧  
+- **Data-Driven Innovation Across Industries** 📊  
 
 ---
 
-### **🚀 Current & Ongoing Projects (Spring 2025):**  
-#### **1️⃣ Deep Learning for Carbon Price Prediction**  
-- Developing a **dual-path AI model** integrating **structured (carbon market data) and unstructured (financial news) data**.  
-- Using **LSTM, GRU, or transformer-based models (BERT)** for unstructured data & neural networks for structured data.  
-- Implementing **NLP techniques** for **market sentiment extraction**.  
+## 🚀 Selected Projects  
 
-#### **2️⃣ Online Air Ticket Reservation System**  
-- Designed a **relational database** to manage **flights, customers, and ticket reservations using SQL**.  
-- Optimized **queries for retrieving flight information, customer purchases, and airline performance metrics**.  
-- Developed an **interactive web interface** for ticket booking & flight tracking.  
+- 🔬 **Dust Accumulation Prediction on Solar Panels**  
+  - Applied **CNNs, LSTMs, and Vision Transformers** for spatio-temporal modeling.  
+  - Finalist at the **5th Forum for Women in Research (QUWA)**.  
 
----
+- 💹 **Carbon Price Forecasting (Deep Learning)**  
+  - Built hybrid models (MLP+LSTM, Residual+Attention LSTM) using **structured + unstructured financial data**.  
+  - Applied **FinBERT sentiment analysis** and improved forecasting accuracy by **60%**.  
 
-### **🌟 Notable Past Projects:**  
+- 🏦 **Fraud Detection Prototype (Pagatodo Bank)**  
+  - Built an **end-to-end fraud detection system** on Azure ML in just 6 weeks.  
+  - Integrated **anomaly detection, clustering, and supervised ML** with explainability via SHAP.  
 
-#### **🔬 Dust Accumulation Prediction for Solar Panels (NYUAD, Fall 2024)**  
-- Conducted research on **deep learning models** (CNNs, Vision Transformers, LSTMs) for predicting dust accumulation on **photovoltaic panels**.  
-- Designed the **research framework** and assisted in analyzing the effectiveness of different ML models.  
-- **Co-authored a research report**, leading to a **finalist position at the 5th Forum for Women in Research (QUWA)**.  
+- 🤖 **LLMs for ICS Honeypots (MoMA Laboratory)**  
+  - Fine-tuned **RWKV** for Modbus TCP emulation and built a lightweight transformer (<5M params).  
+  - Extended memory with **RMT-inspired mechanisms** for long-horizon stateful emulation.  
 
-#### **🛠️ Microprocessor Implementation & Simulation Project**  
-- Developed a **custom microprocessor in VHDL**, working on **register memory, ALU, instruction decoding, and control logic**.  
-- Simulated and debugged the system using **Xilinx ISE**.  
+- 💡 **EcoPower Track: Sustainable Dorm Energy Monitoring**  
+  - Developed an **IoT system** to promote responsible energy use at NYUAD dorms.  
+  - Integrated **ambient sensors** and built real-time monitoring pipelines.  
 
-#### **🚗 Voice-Controlled Car Robot**  
-- Built a **Bluetooth-enabled car robot** controlled via a mobile app.  
-- Programmed **motor movements & servo controls** using Arduino.  
+- 🛠️ **Microprocessor Implementation (VHDL + FPGA)**  
+  - Designed a **custom microprocessor** with ALU, register memory, and control logic.  
 
-#### **💡 EcoPower Track: Smart Energy Monitoring System (NYUAD Campus, Fall 2024)**  
-- Developed **real-time IoT-based energy monitoring** to promote **sustainable energy use in dorms**.  
-- Integrated **ambient light and temperature sensors** using the **I2C protocol**.  
-
-#### **🌱 Plant Monitoring System with M5Stack Core2**  
-- Designed a **real-time plant monitoring system** with automated alerts for plant care.  
-- Programmed **sensor integration & notification system** using **M5Stack Core2 & Arduino IDE**.
-
-#### **🍽️ Food Delivery System**  
-- **Description:** Developed a **food delivery system** that allows customers to **generate orders**, automatically prints them to a document for the restaurant, and **simulates the order delivery process**.  
-- **Technologies:** Object-Oriented Programming (OOP), Vectors, Inheritance  
-- **Key Contributions:**  
-  - Implemented a **multi-file code structure** to enhance **readability, reusability, and reduce compilation time**.  
-  - Applied **object-oriented principles** to **optimize memory usage and execution efficiency**.  
-  - Designed and executed **test cases** to verify the **system's functionality and robustness**.
+- 🚗 **Voice-Controlled Car Robot**  
+  - Built a **Bluetooth-enabled robot** with Arduino UNO & mobile integration.  
 
 ---
 
-### **🏆 Honors & Awards:**  
-✅ **Finalist, 5th Forum for Women in Research (QUWA) – Spring 2025**  
-*For research on "Predicting Dust Accumulation on Photovoltaic Panels Using Computer Vision"*  
+## 🏆 Hackathons & Recognition  
+- 💻 **Hack Princeton 2025** – Sustainability tracking app with Python, SQL, JavaScript, and Expo.  
+- 🎖️ **Finalist – QUWA Forum for Women in Research (2025)**  
+  *“Predicting Dust Accumulation on Photovoltaic Panels Using Computer Vision”*  
+- 🏐 **MVP – Abu Dhabi University Volleyball Cup (2023)**  
 
-✅ **Most Valuable Player Award – Abu Dhabi University Volleyball Cup (2023)**  
+---
 
+## 👩‍🏫 Teaching & Leadership  
 
+- **Education Assistant – Intro to Programming (NYUAD)**  
+  - Mentored students in **OOP and algorithms** using C++ and MATLAB.  
+
+- **WeStem Conference Co-Organizer (NYUAD)**  
+  - Organized a **Robotics Workshop** and coordinated speakers and panelists.  
+
+- **Sufara’a Ambassador Program (NYUAD)**  
+  - Led **five community outreach initiatives** to strengthen university–community ties.  
+
+---
+
+✨ *I’m always open to collaborations in AI, data science, IoT, and sustainability!*  
+
+📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/renata-espinosa-gonzalez14) | [GitHub](https://github.com/Renata1214) | re2230@nyu.edu  

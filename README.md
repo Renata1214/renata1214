@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Renata!  
+# Hi there, I'm Renata!  
 
 Computer Engineering student specializing in Machine Learning, with experience in fraud detection, forecasting, and
 industrial cybersecurity research. Skilled in building end-to-end ML pipelines—from data engineering and feature

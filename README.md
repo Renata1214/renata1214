@@ -7,7 +7,7 @@ I thrive on solving complex problems, leading innovative projects, and building 
 
 ---
 
-## 🔧 Skills & Technologies  
+## Skills & Technologies  
 
 ### **Programming & OS**  
 - Python, C++, MATLAB, VHDL, Verilog, SQL, HTML  
@@ -34,7 +34,7 @@ I thrive on solving complex problems, leading innovative projects, and building 
 
 ---
 
-## 🤝 Collaboration Interests  
+## Collaboration Interests  
 - **Machine Learning & AI Research**   
 - **Sustainable Energy & Impact-Driven Tech**   
 - **Robotics & IoT Systems** 
@@ -42,7 +42,7 @@ I thrive on solving complex problems, leading innovative projects, and building 
 
 ---
 
-## 🚀 Selected Projects  
+## Selected Projects  
 
 - **Dust Accumulation Prediction on Solar Panels**  
   - Applied **CNNs, LSTMs, and Vision Transformers** for spatio-temporal modeling.  
@@ -72,7 +72,7 @@ I thrive on solving complex problems, leading innovative projects, and building 
 
 ---
 
-## 🏆 Hackathons & Recognition  
+## Hackathons & Recognition  
 -  **Hack Princeton 2025** – Sustainability tracking app with Python, SQL, JavaScript, and Expo.  
 -  **Finalist – QUWA Forum for Women in Research (2025)**  
   *“Predicting Dust Accumulation on Photovoltaic Panels Using Computer Vision”*  
@@ -80,7 +80,7 @@ I thrive on solving complex problems, leading innovative projects, and building 
 
 ---
 
-## 👩‍🏫 Teaching & Leadership  
+## Teaching & Leadership  
 
 - **Education Assistant – Intro to Programming (NYUAD)**  
   - Mentored students in **OOP and algorithms** using C++ and MATLAB.  
@@ -90,9 +90,3 @@ I thrive on solving complex problems, leading innovative projects, and building 
 
 - **Sufara’a Ambassador Program (NYUAD)**  
   - Led **five community outreach initiatives** to strengthen university–community ties.  
-
----
-
-✨ *I’m always open to collaborations in AI, data science, IoT, and sustainability!*  
-
-📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/renata-espinosa-gonzalez14) | [GitHub](https://github.com/Renata1214) | re2230@nyu.edu  

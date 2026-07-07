@@ -1,10 +1,10 @@
-# Hi, I'm Renata Espinosa 👋
+# Hi, I'm Renata Espinosa
 
 Computer Engineering graduate from NYUAD specializing in **Machine Learning**, with experience in fraud detection, forecasting, and agentic AI. I build ML pipelines from data engineering and feature design to model optimization and cloud deployment.
 
 ---
 
-### 🛠️ Skills & Technologies
+### Skills & Technologies
 
 **Programming & OS**
 - Python, C++, MATLAB, SQL, HTML
@@ -27,7 +27,7 @@ Computer Engineering graduate from NYUAD specializing in **Machine Learning**, w
 
 ---
 
-### 🚀 Selected Projects
+### Selected Projects
 
 **Dust Accumulation Prediction on Solar Panels**
 Applied CNNs, LSTMs, and Vision Transformers for spatio-temporal modeling of dust accumulation on photovoltaic panels. Finalist at the 5th Forum for Women in Research (QUWA).
@@ -43,19 +43,19 @@ Fine-tuned RWKV for Modbus TCP emulation and built a lightweight transformer (<5
 
 ---
 
-### 🏆 Hackathons & Recognition
+### Hackathons & Recognition
 - **Hack Princeton 2025** — Sustainability tracking app built with Python, SQL, JavaScript, and Expo
 - **Finalist, QUWA Forum for Women in Research (2025)** — *"Predicting Dust Accumulation on Photovoltaic Panels Using Computer Vision"*
 - **MVP, Abu Dhabi University Volleyball Cup (2023)**
 
 ---
 
-### 🎓 Teaching & Leadership
+### Teaching & Leadership
 - **Education Assistant, Intro to Programming (NYUAD)** — Mentored students in OOP and algorithms using C++ and MATLAB
 - **WeStem Conference Co-Organizer (NYUAD)** — Coordinated speakers and panelists for a technology-focused conference
 - **Sufara'a Ambassador Program (NYUAD)** — Led five community outreach initiatives to strengthen university–community ties
 
 ---
 
-### 📫 Connect with me
+### Connect with me
 [LinkedIn](https://www.linkedin.com/in/renata-espinosa-gonzalez) · re2230@nyu.edu
